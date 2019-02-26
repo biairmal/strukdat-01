@@ -1,6 +1,6 @@
 // nama file : exercise-02.cpp
 /*
-Nama Program : Fizz Buzz
+Nama Program : Converter
 Nama 		 : Bandana Irmal Abdillah
 NPM			 : 140810180025
 Tanggal buat : 26 Februari 2019
@@ -20,5 +20,5 @@ main(){
 	float temp, hasil;
 	cout <<"Celcius : "; cin >> temp;
 	hasil = CtoF(temp);
-	cout << hasil;
+	cout << "Fahrenheit : " << hasil;
 }
